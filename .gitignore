@@ -1,0 +1,32 @@
+# Flutter related
+**/build/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Android related
+.gradle/
+local.properties
+
+# iOS related
+Pods/
+.generated/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/engine/
+ios/Flutter/flutter_assets/
+
+# Others
+.DS_Store
+.idea/
+.vscode/
+*.iml
